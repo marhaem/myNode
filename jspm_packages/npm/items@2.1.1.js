@@ -1,0 +1,1 @@
+module.exports = require("npm:items@2.1.1/lib/index.js");

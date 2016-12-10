@@ -1,0 +1,1 @@
+module.exports = require("npm:podium@1.2.5/lib/index.js");

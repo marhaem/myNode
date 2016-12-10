@@ -1,0 +1,1 @@
+module.exports = require("npm:vise@2.0.2/lib/index.js");

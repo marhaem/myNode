@@ -1,0 +1,1 @@
+module.exports = require("npm:vision@4.1.1/lib/index.js");

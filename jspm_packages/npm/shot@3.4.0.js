@@ -1,0 +1,1 @@
+module.exports = require("npm:shot@3.4.0/lib/index.js");

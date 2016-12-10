@@ -1,0 +1,1 @@
+module.exports = require("npm:catbox@7.1.3/lib/index.js");

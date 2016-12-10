@@ -1,0 +1,32 @@
+{
+  "name": "projekt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --watch * start.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jspm": "^0.16.48",
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {
+    "jspm": "^0.16.48"
+  },
+  "jspm": {
+    "configFile": "jspm_config.js",
+    "dependencies": {
+      "handlebars": "npm:handlebars@^4.0.6",
+      "hapi": "npm:hapi@^16.0.1",
+      "vision": "npm:vision@^4.1.1"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
+  }
+}

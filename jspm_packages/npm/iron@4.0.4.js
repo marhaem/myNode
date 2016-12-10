@@ -1,0 +1,1 @@
+module.exports = require("npm:iron@4.0.4/lib/index.js");

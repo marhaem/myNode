@@ -1,0 +1,1 @@
+module.exports = require("npm:statehood@5.0.1/lib/index.js");
